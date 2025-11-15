@@ -78,7 +78,7 @@ body {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-                url('img/income-tax-2.jpg');
+                url('income-tax-2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
